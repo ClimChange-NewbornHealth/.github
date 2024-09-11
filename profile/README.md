@@ -3,6 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=ClimChange-NewbornHealth&style=flat-square&theme=tokyonight)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![GitHub Project](https://img.shields.io/github/followers/ClimChange-NewbornHealth?label=follow&style=social)](https://github.com/ClimChange-NewbornHealth)
+![GitHub Org's stars](https://img.shields.io/github/stars/ClimChange-NewbornHealth)
+![GitHub followers](https://img.shields.io/github/followers/ClimChange-NewbornHealth)
+
+
 
 
 
