@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ClimChange-NewbornHealth&style=flat-square&theme=tokyonight)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClimChange-NewbornHealth)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClimChange-NewbornHealth&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClimChange-NewbornHealth&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
