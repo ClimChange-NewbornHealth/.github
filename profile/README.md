@@ -20,6 +20,9 @@ Este trabajo tiene un enfoque particular en las disparidades urbanas, ya que las
 
 [![Birth Health Spanish](https://img.youtube.com/vi/7eh6WzN2fiI/0.jpg)](https://www.youtube.com/watch?v=7eh6WzN2fiI)
 
+[![Birth Health Spanish](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/7eh6WzN2fiI)
+
+
 <!--
 
 **Here are some ideas to get you started:**
