@@ -12,13 +12,13 @@ This repository contains a collection of scientific articles and analysis codes 
 
 This work has a particular focus on urban disparities, as areas with less vegetation or lower socioeconomic status may face higher risks due to the interaction between pollution and climate. The findings from this research will be essential for the development of climate adaptation plans in Chile, informing public policies to protect maternal and infant health in the coming decade.
 
-## Spanish description 👩‍💻
+## Spanish description 🍿
 
 Este repositorio contiene una recopilación de artículos científicos y códigos de análisis enfocados en los efectos del cambio climático sobre la salud, con especial énfasis en la salud perinatal en entornos urbanos. Los estudios exploran cómo la exposición a la contaminación del aire y las temperaturas extremas impactan los resultados del embarazo, como el parto prematuro. Aunque la mayor parte de la evidencia existente proviene de regiones del hemisferio norte con menores niveles de contaminación, estos estudios se centran en Chile, un país con altos niveles de contaminación atmosférica y temperaturas extremas crecientes. El objetivo es ofrecer una mejor comprensión del riesgo diferencial asociado a la exposición al cambio climático y su interacción con el entorno urbano.
 
 Este trabajo tiene un enfoque particular en las disparidades urbanas, ya que las zonas con menor vegetación o menores niveles socioeconómicos pueden experimentar un mayor riesgo debido a la interacción entre la contaminación y el clima. Los resultados de estas investigaciones serán esenciales para la creación de planes de adaptación climática en Chile, informando políticas públicas para la protección de la salud materna e infantil en la próxima década.
 
-![](https://www.youtube.com/watch?v=7eh6WzN2fiI)
+![https://www.youtube.com/watch?v=7eh6WzN2fiI](https://www.youtube.com/watch?v=7eh6WzN2fiI)
 
 <!--
 
