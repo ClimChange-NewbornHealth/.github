@@ -18,12 +18,7 @@ Este repositorio contiene una recopilación de artículos científicos y código
 
 Este trabajo tiene un enfoque particular en las disparidades urbanas, ya que las zonas con menor vegetación o menores niveles socioeconómicos pueden experimentar un mayor riesgo debido a la interacción entre la contaminación y el clima. Los resultados de estas investigaciones serán esenciales para la creación de planes de adaptación climática en Chile, informando políticas públicas para la protección de la salud materna e infantil en la próxima década.
 
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID=7eh6WzN2fiI" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7eh6WzN2fiI" frameborder="0" allowfullscreen></iframe>
 
 <!--
 
