@@ -20,7 +20,9 @@ Este trabajo tiene un enfoque particular en las disparidades urbanas, ya que las
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7eh6WzN2fiI" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID=7eh6WzN2fiI" frameborder="0" allowfullscreen></iframe>
 
 
 <!--
