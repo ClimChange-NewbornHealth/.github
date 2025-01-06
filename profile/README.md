@@ -20,10 +20,6 @@ Este trabajo tiene un enfoque particular en las disparidades urbanas, ya que las
 
 [![Birth Health Spanish](https://img.youtube.com/vi/7eh6WzN2fiI/0.jpg)](https://www.youtube.com/watch?v=7eh6WzN2fiI)
 
-[![Tutorial de Git y GitHub](https://img.youtube.com/vi/WgD5WHHkgxU/0.jpg)](https://www.youtube.com/watch?v=WgD5WHHkgxU)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7eh6WzN2fiI" frameborder="0" allowfullscreen></iframe>
-
 <!--
 
 **Here are some ideas to get you started:**
