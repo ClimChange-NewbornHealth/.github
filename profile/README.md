@@ -18,13 +18,20 @@ Este repositorio contiene una recopilación de artículos científicos y código
 
 Este trabajo tiene un enfoque particular en las disparidades urbanas, ya que las zonas con menor vegetación o menores niveles socioeconómicos pueden experimentar un mayor riesgo debido a la interacción entre la contaminación y el clima. Los resultados de estas investigaciones serán esenciales para la creación de planes de adaptación climática en Chile, informando políticas públicas para la protección de la salud materna e infantil en la próxima década.
 
-[![Birth Health Spanish](https://img.youtube.com/vi/7eh6WzN2fiI/0.jpg)](https://www.youtube.com/watch?v=7eh6WzN2fiI)
+Puedes revisar los siguientes videos a continuación 
 
-[![Birth Health Spanish](https://share.gifyoutube.com/7eh6WzN2fiI.gif)](https://www.youtube.com/watch?v=7eh6WzN2fiI)
+**Cambio climático y salud del recién nacido: una introducción**
 
 <a href="https://www.youtube.com/watch?v=7eh6WzN2fiI">
-  <img src="https://img.youtube.com/vi/7eh6WzN2fiI/hqdefault.jpg" width="600">
+  <img src="https://img.youtube.com/vi/7eh6WzN2fiI/hqdefault.jpg" width="900" height="600">
 </a>
+
+**Temperaturas extremas y peso al nacer**
+
+<a href="https://www.youtube.com/watch?v=tu99fLwFd08">
+  <img src="https://img.youtube.com/vi/tu99fLwFd08/hqdefault.jpg" width="900" height="600">
+</a>
+
 
 <!--
 
