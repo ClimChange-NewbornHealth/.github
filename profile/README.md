@@ -6,6 +6,8 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/ClimChange-NewbornHealth)
 ![GitHub followers](https://img.shields.io/github/followers/ClimChange-NewbornHealth)
 
+![](https://github.com/ClimChange-NewbornHealth/.github/blob/main/profile/elab-team.png?raw=true)
+
 ## English description 👩‍💻
 
 This repository contains a collection of scientific articles and analysis codes focused on the effects of climate change on health, with a particular emphasis on perinatal health in urban environments. The studies explore how exposure to air pollution and extreme temperatures impact pregnancy outcomes, such as preterm birth. While most of the existing evidence comes from northern hemisphere regions with lower pollution levels, these studies focus on Chile, a country with high levels of air pollution and increasingly extreme temperatures. The aim is to provide a better understanding of the differential risk associated with climate change exposure and its interaction with the urban environment.
